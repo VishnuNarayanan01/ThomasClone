@@ -1,0 +1,1006 @@
+.stick1{
+    height:100px;
+    margin-top: 21px;
+    width: 400px;
+}
+.stick2{
+    height:100px;
+    width: 400px;
+}
+.stick3{
+    height:100px;
+    width: 422px;
+}
+.container{
+   height: 83px;
+   width: 100%;
+   display: flex;
+}
+.atol{
+    margin-left: 20px;
+}
+.abta{
+    margin-left:25px;
+}
+.mainlogo{
+    margin-left: 88px;
+    margin-top: 14px;
+}
+.heart{
+    height: 20px;
+    margin-top: 33px;
+    margin-left: 204px;
+    float: left;
+}
+.globe{
+    height: 24px;
+    margin-left: 17px;
+    opacity:0.6;
+    margin-top: 31px;
+}
+.myacc{
+    height:29px;
+    border-radius: 20px;
+    width: 120px;
+    border-width: 1px;
+    margin-left: 16px;
+    background-color: #fff;  
+    padding-top:13px;  
+    position: relative;
+}
+.usericon{
+    height: 20px;
+    margin-right:10px;
+    margin-top: -9px;
+    float: left ;
+}
+.alignacc{
+    font-family: sans-serif;
+    margin-top: -7px;
+    position: absolute;
+    margin-left: 27px;
+    bottom: 5px;
+}
+.stick4{
+    width:100%;
+    background: sandybrown;
+    height: 50px;
+}
+.container2{
+    width: 100%;
+    height: 26px;
+    display: flex;
+}
+li{
+    display: inline;
+    text-decoration: none;
+    margin-left: 49px;
+}
+.list{
+    margin-left: 194px;
+}
+.downarrow{
+    height: 12px;
+    margin-left: 5px;
+    width: 10px;
+    margin-top: 2px;
+    position: relative;
+    bottom: -1px;
+}
+body{
+    font-family: Source Sans Pro,sans-serif;
+}
+.container3{
+    height: 137px;
+    width:100%;
+    background:#efe7d6;
+}
+.ul2{
+    position: relative;
+    top: 18px;
+    right: 76px;
+}
+.hw{
+    font-weight: bold;
+}
+.hw2{
+    font-weight: bold;
+    position: relative;
+    right:37px
+}
+.ul3{
+    position: relative;
+    right: 77px;
+    top:15px;
+}
+.tofrobar1{
+   height: 36px;
+   border-radius: 7px;
+   border-color: gray;
+   border-width: 0.5px;
+   width: 283px;
+   position: relative;
+   bottom: 3px;
+}
+.tofrobar2{
+   height: 36px;
+   border-radius: 7px;
+   border-color: gray;
+   border-width: 0.5px;
+   width: 283px;
+   position: relative;
+   right: 46px;
+   bottom:3px;
+}
+.toandfro{
+    background: #fff;
+    height: 63px;
+    width: 1210px;
+    margin-left: 7px;
+    border-radius: 10px;
+    position: relative;
+    top:6px;
+}
+input[type="text"]{
+    padding-left:10px;
+ }
+.tofrodatebar{
+    height: 36px;
+    width: 124px;
+    position: relative;
+    right: 91px;
+    top: -3px;
+    border-radius: 7px;
+    border-width: 0.5px;
+}
+.durationbar{
+    height: 36px;
+    width: 112px;
+    border-radius: 7px;
+    border-width: 0.5px;
+    position:absolute;
+    right: 250px;
+    bottom:3px;
+}
+.roombar{
+    height: 36px;
+    width: 116px;
+    position: relative;
+    border-radius: 7px;
+    border-width: 0.5px;
+    right:59px;
+    bottom: 3px;
+}
+.searchbutt{
+    position: absolute;
+    right: -42px;
+    height: 41px;
+    bottom: 2px;
+    width: 137px;
+    background: #cc2900;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    font-size: 17px;
+}
+.searchbutt:hover{
+    cursor: pointer;
+}
+.jcrimg{
+    width: 100%;
+    height: 421px;
+}
+.underpic{  
+    height:240px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    top: 19px;
+}
+.middlepara{
+    top: 22px;
+    font-weight: 900;
+    color:black;
+    font-family: inherit;
+    font-size: 25px;
+    position: absolute;
+    left: 48px;
+}
+.leftpara{
+    height: 150px;
+    width:350px;
+}
+.rightpara{
+    height:200px;
+    width:858px;
+    display: flex;
+}
+.rightpara1{
+
+   height: 200px;
+   width: 220px;
+   padding-top: 27px;
+}
+.rightpara2{
+
+   height: 200px;
+   width: 220px;
+   padding-top: 27px;
+
+}
+.rightpara3{
+  
+   height: 200px;
+   width: 220px;
+   padding-top: 27px;
+}
+.rightpara4{
+    height: 200px;
+    width: 220px;
+    padding-top: 27px;
+}
+.only{
+    font-family: inherit;
+    font-weight: 600;
+    margin-bottom: -9px;
+}
+.minis{
+    position: relative;
+    top:15px;
+}
+.firstgrid{
+    width:1200px;
+    height: 600px;
+   
+    display: grid;
+    grid-template-rows: 300px 200px;
+    grid-template-columns: 604.75px 575.25px;
+    row-gap: 20px;
+    position: relative;
+    left: 26px;
+    
+}
+.eiffel{
+    width: 604.75;
+    height: 300;
+    border-radius: 20px;
+}    
+.beach{
+    width:604.75px;
+    height: 200px;
+    border-radius: 20px;
+}
+.mountain{
+    width: 575.25px;
+    height: 520px;
+    position: relative;
+    left: 20px;
+    border-radius: 20px;
+}
+.cards1{
+    height: 136px;
+    width: 420px;
+    background-color: #fff;
+    z-index: 2;
+    position: relative;
+    bottom: 282px;
+    left: 159px;
+    border-radius:0px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.card1text1{
+position: relative;
+top: -1px;
+font-family: inherit;
+right: 14px;
+font-weight: 900;
+
+
+}
+.cards3{
+    position: absolute;
+    left: 19px;
+    top: 29px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background:#fff;
+    width: 340px;
+    height: 136;
+    border-radius: 0px 20px;
+    
+}
+.cards2{
+    width: 340px;
+    height: 136px;
+    background:#fff;
+    position: absolute;
+    bottom: 107px;
+    left: 21px;
+    border-radius: 0px 20px;
+}
+
+.tinydiv1{
+    height:28px;
+    width:151.73px;
+    background: gold;
+    position: relative;
+    bottom: 100px;
+    border-radius: 0px 10px;
+    bottom: 527px;
+    z-index: 2;
+    left: 187px;
+    font-family: inherit;
+    font-size: 11px;
+    font-weight: 800;
+}
+.tinydiv2{
+    height:28px;
+    width:151.73px;
+    background: black;
+    position: relative;
+    bottom: 516px;
+    left: 410px;
+    z-index: 2;
+    border-radius: 0px 15px;
+    background: gold;
+    font-family: inherit;
+    font-size: 11px;
+    font-weight: 800;
+    text-align: right;
+}
+
+.tinydiv3{
+    border-radius: 0px 10px;
+    height: 28px;
+    width: 151.73px;
+    background: gold;
+    position: relative;
+    bottom: 243px;
+    left: 189px;
+    z-index: 2;
+    font-family: inherit;
+    font-size: 11px;
+    font-weight: 800;
+}
+.card1text2{
+    position: absolute;
+    top: 44px;
+    right: 11px;
+    font-family: inherit;
+    text-align: right;
+}
+.card1textCity{
+    position: relative;
+    left: 16px;
+    font-weight: 900;
+    font-family: inherit;
+}
+.card1text3{
+    position: relative;
+    top: 12px;
+    right: 10px;
+    color:  #d74113;
+   
+}
+span{
+    text-align: center;
+}
+.st1{
+    position: relative;
+    bottom: 5px;
+    right: 20px;
+}
+.palign{
+    text-align: left;
+    position: absolute;
+    right: 57px;
+}
+.palign2{
+    left: 17px;
+    top: 10px;
+}
+.palign3{
+    left: 15px;
+}
+.palign4{
+    text-align: left;
+    right: 47px;
+}
+.st2{
+    position: relative;
+    left: 20px;
+    bottom: 4px;
+}
+.palign5{
+    top: 31px;
+    left: 12px;
+}
+.st3{
+    left: 20px;
+    position: relative;
+    bottom: 4px;
+}
+.secondgrid{
+    background-color: #f4f4f0;
+    width: 1261px;
+    height: 593px;
+    position: relative;
+}
+.creamdivp{
+    font-family: inherit;
+    font-weight: 700;
+    color: #757575;
+    font-size: small;
+    position: absolute;
+    left: 36px;
+    top: 48px;
+}
+.creamdivhead{
+    font-family: inherit;
+    font-size: 44px;
+    font-weight: 700;
+    position: absolute;
+    top: 46px;
+    left: 34px;
+}
+.vacationlist{
+    position: absolute;
+    top: 136px;
+    left: -54px;  
+}
+.vacationlist:hover{
+    cursor: pointer;
+}
+.vacationpics{
+    width: 1200px;
+    position: absolute;
+    height: 340px;
+    
+    top: 216px;
+    left: 31px;
+   
+}
+.pics{
+    width: 227px;
+    height: 320px;
+    margin-left: 9.2px;
+    border-radius: 15px;
+}
+.li2{
+    margin-left: 17px;
+    position: relative;
+    left: 32px;
+}
+.icons8{
+    height:16px;
+    width: 16px;
+    position: relative;
+    left: 16px;
+    top:11px;
+}
+.picsicon1{
+    width:83px;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 20px;
+    position: relative;
+    top: 231px;
+    left: 171px;
+}
+.picsicon2{
+    width:83px;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 20px;
+    position: relative;
+    top: 197px;
+    left: 411px
+}
+.picsicon3{
+    width:83px;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 20px;
+    position: relative;
+    top:163px;
+    left: 653px;
+}
+.picsicon4{
+    width:83px;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 20px;
+    position: relative;
+    top: 129px;
+    left: 893px;
+}
+.picsicon5{
+    width:83px;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 20px;
+    position: relative;
+    top: 99px;
+    left: 1134px;
+}
+.iconsplus{
+    height: 10px;
+    width: 10px;
+    bottom: 2px;
+    margin-bottom: 4px;
+}
+.belowcards1{
+    width: 227.5px;
+    height: 121px;
+    background: #fff;
+    border-radius: 0px 20px 20px 20px;
+    position: absolute;
+    top: 418px;
+    left: 40px;
+}
+.belowcards2{
+    width: 227.5px;
+    height: 121px;
+    background: #fff;
+    position: absolute;
+    left: 280px;
+    border-radius: 0px 20px 20px 20px;
+    top: 421px;
+}
+.belowcards3{
+    width: 227.5px;
+    height: 121px;
+    background: #fff;
+    position: absolute;
+    border-radius: 0px 20px 20px 20px;
+    left: 521px;
+    top: 422px;
+}
+.belowcards4{
+    width: 227.5px;
+    height: 121px;
+    background: #fff;
+    position: absolute;
+    border-radius: 0px 20px 20px 20px;
+    left: 762px;
+    top: 422px;
+}
+.belowcards5{
+    width: 227.5px;
+    height: 121px;
+    background: #fff;
+    position: absolute;
+    border-radius: 0px 20px 20px 20px;
+    top: 422px;
+    left: 1003px;
+}
+.pstyle{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: inherit;
+    position: relative;
+    bottom:9px;
+    left:12px;
+}
+.stars{
+    width: 75px;
+    height: 15px;
+    display: flex;
+    position: relative;
+    top: 287px;
+    left: 51px;
+}
+.star{
+    margin-left:3px;
+}
+.stars2{
+    width: 75px;
+    height: 15px;
+    display: flex;
+    position: relative;
+    top: 271px;
+    left: 289px;
+}
+.stars3{
+    width: 75px;
+    height: 15px;
+    display: flex;
+    position: relative;
+    top: 257px;
+    left: 531px;
+}
+.stars4{
+    width: 75px;
+    height: 15px;
+    display: flex;
+    position: relative;
+    top: 241px;
+    left: 772px;
+}
+.stars5{
+    width: 75px;
+    height: 15px;
+    display: flex;
+    position: relative;
+    top: 227px;
+    left: 1013px;
+}
+.desc{
+    height: 36px;
+    width: 211px;;
+    position:relative;
+    display: flex;
+    position: relative;
+    top: 238px;
+    left: 49px;
+    font-family: inherit;
+ 
+}
+.desc1{
+    height: 36px;
+    width: 211px;
+    position:relative;
+   
+    left: 290px;
+    top:202px;
+}
+.desc2{
+    height: 36px;
+    width: 211px;
+    position:relative;
+  
+    left: 529px;
+    top:166px;
+}
+
+
+.desc3{
+    height: 36px;
+    width: 211px;
+    position:relative;
+   
+    left: 771px;
+    top:131px;
+}
+
+.desc4{
+    height: 36px;
+    width: 211px;
+    position:relative;
+  
+    left:1010px;
+    top:96px;
+}
+.inc-desc{
+    position: relative;
+    bottom: 8px;
+    left: 7px;
+}
+.euro{
+    font-size:24px;
+    font-weight: 900;
+    
+}
+.subs1{
+    vertical-align: super;
+    vertical-align: 9px;
+}
+.inclusive-desc1{
+    position: relative;
+    bottom: 9px;
+    left: 37px;
+}
+.inclusive-desc2{
+    position: relative;
+    left: 101px;
+    bottom:50px;
+}
+.inc-desc2{
+    position: relative;
+    bottom: 8px;
+}
+.inc-desc3{
+    position: relative;
+    bottom: 21px;
+}
+.inc-desc4{
+    bottom: 34px;
+    position: relative;
+}
+.inc-desc5{
+    bottom: 47px;
+    position: relative;
+}
+.inclusive-desc3{
+    position: relative;
+    bottom: 63px;
+    left:110px;
+}
+.inclusive-desc4{
+    position: relative;
+    bottom: 77px;
+    left: 107px;
+}
+.inclusive-desc5{
+    position: relative;
+    bottom: 89px;
+    left:104px;
+}
+.thirdgrid{
+ 
+    height: 640px;
+    width: 1230px;
+    font-family: inherit;
+    position: relative;
+
+}
+.subgrid1{
+    width: 1210px;
+    height: 291.73px;
+    background: #fff;
+    position: absolute;
+    top: 61px;
+    left: 14px;
+    
+}
+.last-gallery{
+    width: 1200px;
+    height: 188px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 187px;
+    left: 10px;
+    border-radius: 10px;
+    column-gap: 15px;
+}
+.pics1{
+    width: 288px;
+    height: 188px;
+}
+.pics2{
+    width: 288px;
+    height: 188px;
+}
+
+.pics3{
+    width: 288px;
+    height: 188px;
+}
+
+.pics4{
+    width: 288px;
+    height: 188px;
+}
+.descofgallery{
+   
+    width: 256px;
+    height: 26.39px;
+    position: relative;
+    top: 179px;
+    left: 28px;
+    color: #fff;
+    font-family: inherit;
+    font-weight: bold;
+}
+.holidays1{
+    position: relative;
+    bottom: 20px;
+}
+.descofgallery1{
+    width: 256px;
+    height: 26.39px;
+    position: relative;
+    top: 135px;
+    font-family: inherit;
+    color: #fff;
+    left: 328px;
+}
+.descofgallery2{
+    width: 256px;
+    height: 26.39px;
+    position: relative;
+    color: #fff;
+    top: 90px;
+    left: 628px;
+}
+.descofgallery3{
+    color: #fff;
+    width: 256px;
+    height: 26.39px;
+    position: relative;
+    top: 46px;
+    left: 933px;
+}
+.fourthgrid{
+    width: 1261px;
+    height: 1217px;
+    background-color: #f4f4f0;
+}
+.footer-onebox{
+    width: 1200px;
+    height: 316px;
+    position: relative;
+    left:30px;
+    top: 54px;
+    border-bottom: #757575 solid 1px;
+    display: flex;
+}
+.chatlist{
+    display: block;
+    padding-right: 20px;
+    padding-top: 30px;
+    font-family: inherit;
+    
+}
+.ul1_2{
+    width: 290px;
+    border-right:#757575 solid 1px;
+    position: relative;
+}
+.signup{
+    background: black;
+    color: #fff;
+    height: 37px;
+    width :91px;
+    border-radius: 20px;
+    margin-left: 17px;
+}
+.chatlist-p1{
+    position: absolute;
+    bottom: 161px;
+     left: 142px;
+}
+.chatlist-p2{
+     position: absolute;
+     bottom: 87px;
+     left: 142px;
+}
+.chatlist-p3{
+     position: absolute;
+     bottom: 5px;
+     left: 141px;
+}   
+.chatlist-c1{
+    position: absolute;
+    bottom: 148px;
+    left: 140px;
+}
+.chatlist-c2{
+    position: absolute;
+    bottom: 87px;
+    left: 142px;
+}
+.chatlist-c3{
+    position: absolute;
+    bottom: 3px;
+    left: 141px;
+}
+.underpic2{
+   
+    height: 186px;
+    width: 1200px;
+    position: relative;
+    top: 56px;
+    left: 30px;
+    border-bottom:#757575 solid 1px;
+    display: flex;
+    filter: grayscale(100%);
+}
+.rightpara6{
+margin-left: 98px;
+margin-top: 34px;
+}
+.rightpara7{
+    margin-left: 98px;
+    margin-top: 34px;
+}
+.rightpara6{
+    margin-left: 6px;
+    margin-top: 34px;      
+  }
+  .rightpara8{
+    margin-left: 98px;
+    margin-top: 34px;
+  }
+  .rightpara9{
+    margin-left: 98px;
+    margin-top: 34px;
+  }
+  .footerul{
+    height: 89px;
+    width: 1200px;
+
+position: relative;
+top: 57px;
+left: 31px;
+border-bottom: solid 1px #757575;
+
+  }
+  .footerul2{
+    height: 75px;
+    width: 1200px;
+
+position: relative;
+top: 57px;
+left: 31px;
+border-bottom: solid 1px #757575;
+  }
+  .footerul3{
+    height: 85px;
+    width: 1200px;
+    
+    position: relative;
+    top: 57px;
+    left: 31px;
+    border-bottom: solid 1px #757575;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .finalsul1{
+    height:449px;
+    width: 1200px;
+    background-color: #262626;
+    position: relative;
+    top:58px;
+    left:31px;
+  }
+  .finallist1_1{
+    top: 46px;
+    display: inline;
+    margin-left: 49px;
+    position: relative;
+    right: 80px;
+    font-size: 16px;
+    font-weight: 400;
+    border-right: 1px black;
+  }
+  .mainlinks{
+    position: absolute;
+    top:17px;
+    left: 10px;
+}
+.endbox1{
+    height:112px;
+    width: 1150px;
+    position: relative;
+    left: 23px;
+    border-bottom: #cacaca 1px solid;
+    display: flex;
+    justify-content: space-around;
+}
+.endbox2{
+    height:147px;
+    width: 1150px;
+    position: relative;
+    left: 23px;
+    border-bottom: 1px #cacaca solid;
+    display: flex;
+    justify-content: space-around;
+}
+.endbox3{
+    height:160px;
+    width: 1150px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 23px;
+}
+.finalword{
+    color: #fff;
+    position: relative;
+    font-family: Calibri, sans-serif;
+    font-size: 14px;
+    top: 40px;
+}
+.finalword1{
+    color: #fff;
+    top: 40px;
+    position: relative;
+    font-family: Calibri, sans-serif;
+    font-size: 14px;
+}
